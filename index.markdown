@@ -7,7 +7,7 @@ notification: "March 1st, 2024, end of the day"
 camera-ready: "March 15th, 2024, Anywhere on Earth"
 location: "Hong Kong"
 cover: /assets/img/hong-kong-cover.jpg
-caption: Real-time And intelliGent Edge computing workshop
+caption: The 3rd Real-time And intelliGent Edge computing workshop
 submission: To-be-announced
 hosted: CPS-IoT Week 2024
 hosted-url: https://cps-iot-week2024.ie.cuhk.edu.hk/
