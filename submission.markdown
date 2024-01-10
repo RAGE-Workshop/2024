@@ -13,17 +13,14 @@ The workshop follows a double-blind peer-review process. The body of each submit
 
 ## Paper Format
 
-Submissions must comply with the ACM Standard conference paper template ("sigconf") with 10pt font, default line-spacing and margins.
-Templates are available at [ACM templates](https://www.acm.org/publications/proceedings-template). 
+Submissions must comply with the ACM Standard conference paper template ("conference") with 10pt font, default line-spacing and margins.
+Templates are available at [Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html). 
 
 When using the LaTeX template, the document class declaration should look as follows:
 
-```\documentclass[sigconf]{acmart}```
+```\documentclass[conference]{IEEEtran}```
 
 ## Publishing
 
-RAGE 2024 proceedings will be published in "CPS-IoT 2024 Workshops" ACM proceedings.
+RAGE 2024 proceedings will be published in "CPS-IoT 2024 Workshops" IEEE proceedings, available on [IEEE Xplore](https://ieeexplore.ieee.org/).
 
-> By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy.
-
-> Please ensure that you and your co-authors obtain an [ORCID ID](https://orcid.org/register), so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors. The collection process has started and will roll out as a requirement throughout 2022. We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
