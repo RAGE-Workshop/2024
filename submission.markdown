@@ -13,7 +13,7 @@ The workshop follows a double-blind peer-review process. The body of each submit
 
 ## Paper Format
 
-Submissions must comply with the ACM Standard conference paper template ("conference") with 10pt font, default line-spacing and margins.
+Submissions must comply with the IEEE Standard conference paper template ("conference") with 10pt font, default line-spacing and margins.
 Templates are available at [Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html). 
 
 When using the LaTeX template, the document class declaration should look as follows:
