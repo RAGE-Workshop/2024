@@ -1,5 +1,5 @@
 ---
 name: Sotiris Tegos
 role: Ordinary PC member 
-affiliation: IEEE Member
+affiliation: Aristotle University of Thessaloniki, Greece
 ---
