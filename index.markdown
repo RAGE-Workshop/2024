@@ -2,7 +2,7 @@
 layout: home
 year: 2024
 date: "May 13th, 2024"
-deadline: "January 25th, 2024, Anywhere on Earth"
+deadline: "<s>January 25th</s> <b>February 11th</b>, 2024, Anywhere on Earth"
 notification: "March 1st, 2024, end of the day"
 camera-ready: "March 15th, 2024, Anywhere on Earth"
 location: "Hong Kong"
@@ -12,6 +12,10 @@ submission: https://easychair.org/conferences/?conf=rage2024
 hosted: CPS-IoT Week 2024
 hosted-url: https://cps-iot-week2024.ie.cuhk.edu.hk/
 ---
+
+## Announcement
+
+<b style="color: red;">The deadline for submission was extended to February 11th.</b>
 
 ## Call for papers
 
