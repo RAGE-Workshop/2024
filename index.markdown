@@ -15,7 +15,7 @@ hosted-url: https://cps-iot-week2024.ie.cuhk.edu.hk/
 
 ## Announcement
 
-<b style="color: red;">The deadline for submission was extended to February 11th.</b>
+<b style="color: red;">The deadline for submission has been extended to February 11th.</b>
 
 ## Call for papers
 
