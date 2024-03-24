@@ -40,7 +40,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">10:15-10:45</td>
-            <td class="program-topic">Session 1: Edge-based Perception. </td>
+            <td class="program-topic">Session 1: Edge-based Perception </td>
         </tr>
         <tr>
             <td>10:15-10:30</td>
@@ -85,7 +85,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">13:30-14:00</td>
-            <td class="program-topic">Session 3: Model-based and Virtualized Edge Computing. </td>
+            <td class="program-topic">Session 2: Model-based and Virtualized Edge Computing </td>
         </tr>
         <tr>
             <td>13:30-13:45</td>
@@ -124,7 +124,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">15:30-16:00</td>
-            <td class="program-topic">Session 3: Learning at the Edge. </td>
+            <td class="program-topic">Session 3: Learning at the Edge </td>
         </tr>
         <tr>
             <td>15:30-15:45</td>
