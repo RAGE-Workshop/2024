@@ -69,6 +69,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">11:15-11:45</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span >Understanding and Mitigating Hardware Interference Channels on Heterogeneous Multicore</span>
                 <b><br>&emsp;<a href="/2024/speakers/#yun-heechul">Prof. Heechul Yun,</a></b>
                 <br>&emsp;<a href="https://ku.edu/">University of Kansas, KS, USA</a>
             </td>
