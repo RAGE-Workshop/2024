@@ -22,7 +22,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">08:45-09:15</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Ensuring Cyber-Physical System Stability in the Presence of Deadline Misses</span>
+                <br>&emsp;<span>Ensuring Cyber-Physical System Stability in the Presence of Deadline Misses</span>
                 <b><br>&emsp;<a href="/2024/speakers/#maggio-martina">Prof. Martina Maggio,</a></b>
                 <br>&emsp;<a href="https://www.uni-saarland.de/en/home.html">Saarland University, Germany </a>
             </td>
@@ -30,6 +30,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">09:15-09:45</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span>When AI Meets Real-Time: Real-Time Scheduling Framework for Multi-DNN Inference</span>
                 <b><br>&emsp;<a href="/2024/speakers/#chwa-hoon-sung">Prof. Hoon Sung Chwa,</a></b>
                 <br>&emsp;<a href="https://www.dgist.ac.kr/">Daegu Gyeongbuk Institute of Science and Technology, South Korea </a>
             </td>
