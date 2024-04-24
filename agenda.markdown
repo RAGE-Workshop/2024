@@ -63,8 +63,8 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">10:45-11:15</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <b><br>&emsp;<a href="/2024/speakers/#seitter-joerg">Jörg Seitter,</a></b>
-                <br>&emsp;<a href="https://www.infineon.com/">Infineon Technologies, Germany </a>
+                <b><br>&emsp;<a href="/2024/speakers/#biondi-alessandro">Prof. Alessandro Biondi,</a></b>
+                <br>&emsp;<a href="https://www.santannapisa.it/en">Scuola Superiore Sant’Anna</a> and <a href="https://accelerat.eu">Accelerat Srl, Pisa, Italy,</a>
             </td>
         </tr>
         <tr>
@@ -108,7 +108,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">14:00-14:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Towards Zero-Trust Hardware Architectures in Safety and Security Critical System-on-Chips</span>
+                <br>&emsp;<span>Towards Zero-Trust Hardware Architectures in Safety and Security Critical System-on-Chips</span>
                 <b><br>&emsp;<a href="/2024/speakers/#restuccia-francesco">Dr. Francesco Restuccia,</a></b>
                 <br>&emsp;<a href="https://ucsd.edu/">University of California San Diego, CA, USA</a>
             </td>
@@ -116,6 +116,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">14:30-15:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span>Building a Cyber-Physical Edge Cloud Continuum</span>
                 <b><br>&emsp;<a href="/2024/speakers/#ziegenbein-dirk">Dr. Dirk Ziegenbein,</a></b>
                 <br>&emsp;<a href="https://www.bosch.com/research/">Bosch Corporate Research, Germany</a>
             </td>
@@ -156,8 +157,8 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">16:30-17:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <b><br>&emsp;<a href="/2024/speakers/#biondi-alessandro">Prof. Alessandro Biondi,</a></b>
-                <br>&emsp;<a href="https://www.santannapisa.it/en">Scuola Superiore Sant’Anna</a> and <a href="https://accelerat.eu">Accelerat Srl, Pisa, Italy,</a>
+                <b><br>&emsp;<a href="/2024/speakers/#seitter-joerg">Jörg Seitter,</a></b>
+                <br>&emsp;<a href="https://www.infineon.com/">Infineon Technologies, Germany </a>
             </td>
         </tr>
         <tr>
