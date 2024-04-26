@@ -157,6 +157,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">16:30-17:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span>Challenges on the Automotive Edge</span>
                 <b><br>&emsp;<a href="/2024/speakers/#seitter-joerg">Jörg Seitter,</a></b>
                 <br>&emsp;<a href="https://www.infineon.com/">Infineon Technologies, Germany </a>
             </td>
