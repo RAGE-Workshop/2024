@@ -63,6 +63,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">10:45-11:15</td>
             <td class="program-special-event"><b>Invited Talk:</b>
+                <br>&emsp;<span>Profile, Infer, and Monitor: A Paradigm Shift for Real-Time Embedded Systems</span>
                 <b><br>&emsp;<a href="/2024/speakers/#biondi-alessandro">Prof. Alessandro Biondi,</a></b>
                 <br>&emsp;<a href="https://www.santannapisa.it/en">Scuola Superiore Sant’Anna</a> and <a href="https://accelerat.eu">Accelerat Srl, Pisa, Italy,</a>
             </td>
