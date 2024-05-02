@@ -153,7 +153,7 @@ permalink: /agenda/
                 <br>&emsp;<span>5G-enabled Next Generation Internet of Things</span>
                 <b><br>&emsp;<a href="/2024/speakers/#sarigiannidis-panagiotis">Prof. Panagiotis Sarigiannidis,</a></b>
                 <br>&emsp;<a href="https://www.uowm.gr/en/">University of Western Macedonia, Greece </a>
-            </td
+            </td>
         </tr>
         <tr>
             <td class="program-special-event">16:30-17:00</td>
