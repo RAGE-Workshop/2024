@@ -13,10 +13,6 @@ hosted: CPS-IoT Week 2024
 hosted-url: https://cps-iot-week2024.ie.cuhk.edu.hk/
 ---
 
-## Announcement
-
-<b style="color: red;">The deadline for submission has been extended to February 11th.</b>
-
 ## Call for papers
 
 The edge computing paradigm is becoming increasingly popular as it facilitates real-time computation, reduces energy consumption and carbon footprint, and fosters security and privacy preservation by processing the data closer to its origin, thereby drastically reducing the amount of data sent to the cloud. On the application side, there is a growing interest in using edge computing as a key pillar to support

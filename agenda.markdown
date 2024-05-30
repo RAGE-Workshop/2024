@@ -22,7 +22,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">08:45-09:15</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>Ensuring Cyber-Physical System Stability in the Presence of Deadline Misses</span>
+                <br>&emsp;<span>Ensuring Cyber-Physical System Stability in the Presence of Deadline Misses</span> [ 
+                <a href="/2024/assets/data/slides/maggio-martina.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <b><br>&emsp;<a href="/2024/speakers/#maggio-martina">Prof. Martina Maggio,</a></b>
                 <br>&emsp;<a href="https://www.uni-saarland.de/en/home.html">Saarland University, Germany </a>
             </td>
@@ -30,7 +32,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">09:15-09:45</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>When AI Meets Real-Time: Real-Time Scheduling Framework for Multi-DNN Inference</span>
+                <br>&emsp;<span>When AI Meets Real-Time: Real-Time Scheduling Framework for Multi-DNN Inference</span> [ 
+                <a href="/2024/assets/data/slides/chwa-hoon-sung.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <b><br>&emsp;<a href="/2024/speakers/#chwa-hoon-sung">Prof. Hoon Sung Chwa,</a></b>
                 <br>&emsp;<a href="https://www.dgist.ac.kr/">Daegu Gyeongbuk Institute of Science and Technology, South Korea </a>
             </td>
@@ -55,7 +59,9 @@ permalink: /agenda/
             <td>10:30-10:45</td>
             <td>
                 Towards a Real-Time and Energy-Efficient Edge AI Camera Architecture in Mega Warehouse Environment
-                <br>
+                [ 
+                <a href="/2024/assets/data/slides/asai-yusuke.pdf"><i class="fa fa-slideshare"></i></a> 
+                ] <br>
                 <span class="program-speaker">Yusuke Asai, Yuki Mori, Keisuke Higashiura, Kodai Yokoyama, Shin Katayama, Kenta Urano, Takuro Yonezawa, Nobuo Kawaguchi<br>
                 </span>
             </td>
@@ -71,7 +77,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">11:15-11:45</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span >Understanding and Mitigating Hardware Interference Channels on Heterogeneous Multicore</span>
+                <br>&emsp;<span >Understanding and Mitigating Hardware Interference Channels on Heterogeneous Multicore</span> [ 
+                <a href="/2024/assets/data/slides/yun-heechul.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <b><br>&emsp;<a href="/2024/speakers/#yun-heechul">Prof. Heechul Yun,</a></b>
                 <br>&emsp;<a href="https://ku.edu/">University of Kansas, KS, USA</a>
             </td>
@@ -150,7 +158,9 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">16:00-16:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <br>&emsp;<span>5G-enabled Next Generation Internet of Things</span>
+                <br>&emsp;<span>5G-enabled Next Generation Internet of Things</span> [ 
+                <a href="/2024/assets/data/slides/sarigiannidis-panagiotis.pdf"><i class="fa fa-slideshare"></i></a> 
+                ]
                 <b><br>&emsp;<a href="/2024/speakers/#sarigiannidis-panagiotis">Prof. Panagiotis Sarigiannidis,</a></b>
                 <br>&emsp;<a href="https://www.uowm.gr/en/">University of Western Macedonia, Greece </a>
             </td>
