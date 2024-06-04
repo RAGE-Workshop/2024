@@ -113,6 +113,16 @@ permalink: /photos/
         </a>
     </div>
     <div class="grid-item">
+        <a href="{{ "/assets/data/photos/18.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/18.webp" | relative_url }}" />
+        </a>
+    </div>
+        <div class="grid-item">
+        <a href="{{ "/assets/data/photos/19.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/19.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
         <a href="{{ "/assets/data/photos/20.webp" | relative_url }}" target="_blank">
             <img src="{{ "/assets/data/photos/20.webp" | relative_url }}" />
         </a>
@@ -120,6 +130,21 @@ permalink: /photos/
     <div class="grid-item">
         <a href="{{ "/assets/data/photos/21.webp" | relative_url }}" target="_blank">
             <img src="{{ "/assets/data/photos/21.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/22.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/22.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/23.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/23.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/24.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/24.webp" | relative_url }}" />
         </a>
     </div>
     <div class="grid-item">
@@ -173,8 +198,88 @@ permalink: /photos/
         </a>
     </div>
     <div class="grid-item">
+        <a href="{{ "/assets/data/photos/35.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/35.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/36.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/36.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
         <a href="{{ "/assets/data/photos/37.webp" | relative_url }}" target="_blank">
             <img src="{{ "/assets/data/photos/37.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/38.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/38.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/39.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/39.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/40.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/40.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/41.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/41.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/42.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/42.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/43.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/43.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/44.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/44.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/45.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/45.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/46.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/46.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/47.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/47.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/48.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/48.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/49.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/49.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/50.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/50.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/51.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/51.webp" | relative_url }}" />
         </a>
     </div>
     <div class="grid-item">
@@ -183,8 +288,58 @@ permalink: /photos/
         </a>
     </div>
     <div class="grid-item">
+        <a href="{{ "/assets/data/photos/53.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/53.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/54.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/54.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/55.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/55.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
         <a href="{{ "/assets/data/photos/56.webp" | relative_url }}" target="_blank">
             <img src="{{ "/assets/data/photos/56.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/57.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/57.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/58.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/58.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/59.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/59.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/60.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/60.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/61.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/61.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/62.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/62.webp" | relative_url }}" />
+        </a>
+    </div>
+    <div class="grid-item">
+        <a href="{{ "/assets/data/photos/63.webp" | relative_url }}" target="_blank">
+            <img src="{{ "/assets/data/photos/63.webp" | relative_url }}" />
         </a>
     </div>
 </div>
